@@ -17,3 +17,12 @@
   display: flex;
   justify-content: space-around;
 }
+
+.links {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.home {
+  margin-left: 20px;
+}
